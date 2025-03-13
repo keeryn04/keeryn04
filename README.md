@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Jammin](https://github.com/keeryn04/jammin-app)
 
-- 🌱 I’m currently learning **Vercel, AWS, Testing, Machine Learning**
+- 🌱 I’m currently learning **Vercel, Supabase, Testing, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://keeryn04.github.io/Website/](https://keeryn04.github.io/Website/)
 
