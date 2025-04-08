@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Keeryn!</h1>
 <h3 align="center">A software engineer from Calgary, Canada!</h3>
 
-- 🔭 I’m currently working on [Jammin](https://github.com/keeryn04/jammin-app)
+- 🔭 I’m currently working on [Jammin](https://github.com/keeryn04/jammin-app), [Youtube-to-MP3 Generator](https://github.com/keeryn04/Youtube-To-MP3-Generator)
 
 - 🌱 I’m currently learning **Vercel, Supabase, Testing, Machine Learning**
 
