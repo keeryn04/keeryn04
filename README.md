@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Keeryn!</h1>
 <h3 align="center">A software engineer from Calgary, Canada!</h3>
 
-- 🔭 I’m currently working on [Jammin](https://github.com/keeryn04/jammin-app), [Youtube-to-MP3 Generator](https://github.com/keeryn04/Youtube-To-MP3-Generator)
+- 🔭 I’m currently working on [Bita](https://github.com/SeallLab/Fairness-Testing-Chatbot), [Youtube-to-MP3 Generator](https://github.com/keeryn04/Youtube-To-MP3-Generator), [GreenCode Tycoon](https://github.com/keeryn04/Sustainability-Software-Game)
 
-- 🌱 I’m currently learning **Vercel, Supabase, Testing, Machine Learning**
+- 🌱 I’m currently learning **Vercel, Supabase, Unity, Software Design**
 
 - 👨‍💻 All of my projects are available at [https://keeryn04.github.io/Website/](https://keeryn04.github.io/Website/)
 
