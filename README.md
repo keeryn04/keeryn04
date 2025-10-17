@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vercel, Supabase, Unity, Software Design**
 
-- 👨‍💻 All of my projects are available at [https://keeryn04.github.io/Website/](https://keeryn04.github.io/Website/)
+- 👨‍💻 All of my projects are available at [my Portfolio](https://keerynjohnson.info/)
 
 - 📫 How to reach me **keerynjohnson@gmail.com**
 
